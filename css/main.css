@@ -1,12 +1,12 @@
 *
-{transition: all .1s ease-in;
+{transition: all .25s ease-in;
 }
 
 body {
     background-color: #39C;
     border: 2em solid #2B81AC;
     margin: 0em;
-    color: white;
+    color: rgb(245, 245, 245);
     font-family: 'Lucida Sans Regular', Verdana, sans-serif;
 }
 
@@ -30,6 +30,7 @@ ul.cities {
     list-style: none;
     font-size: 0;
     margin-top: 3em;
+    color: rgb(211, 211, 211);
 }
 
 li p {
@@ -122,5 +123,6 @@ i {
 
 .cities li:hover {
     opacity: 1;
+    color: white;
 }
 
