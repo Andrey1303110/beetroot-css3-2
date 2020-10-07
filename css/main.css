@@ -7,7 +7,7 @@ body {
 }
 
 .title {
-    font-size: 35pt;
+    font-size: 30pt;
     margin: 50px 0 50px 215px;
 }
 
@@ -40,7 +40,7 @@ p {
 }
 
 .cities li {
-    font-size: 30pt;
+    font-size: 26pt;
     display: inline-block;
     border: 5px solid white;
     box-sizing: border-box;
@@ -52,7 +52,7 @@ p {
 }
 
 i {
-    font-size: 42pt;
+    font-size: 34pt;
 }
 
 .cities li:nth-child(1) {
