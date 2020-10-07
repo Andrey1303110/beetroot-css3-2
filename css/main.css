@@ -120,5 +120,6 @@ i {
 .cities li:hover {
     opacity: 1;
     color: white;
+    transition: all .25s ease-in;
 }
 
