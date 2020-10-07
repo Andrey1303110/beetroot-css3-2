@@ -124,6 +124,9 @@ i {
 }
 
 .wi-alien:hover {
-    scale: 3;
+    transform: scale(3);
+    transition: all 1s ease-in-out;
+    transition-timing-function: steps(100);
+
 }
 
