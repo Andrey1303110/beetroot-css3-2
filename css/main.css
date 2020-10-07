@@ -8,7 +8,7 @@ body {
 
 .title {
     font-size: 30pt;
-    margin: 50px 0 50px 215px;
+    margin: 50px 0 50px 175px;
 }
 
 .wi-alien {
@@ -16,8 +16,8 @@ body {
 }
 
 ul.cities {
-    margin-left: 215px;
-    margin-right: 215px;
+    margin-left: 175px;
+    margin-right: 175px;
     padding-inline-start: 0px;
 }
 
@@ -112,7 +112,7 @@ i {
 
 .down_text {
     font-size: 18pt;
-    margin-left: 215px;
+    margin-left: 175px;
     margin-top: 50px;
     margin-bottom: 40px;
 }
