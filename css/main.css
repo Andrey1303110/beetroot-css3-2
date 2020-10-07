@@ -123,3 +123,7 @@ i {
     transition: all .25s ease-in;
 }
 
+.wi wi-alien:hover {
+    scale: 3;
+}
+
